@@ -1,0 +1,63 @@
+---------- Forwarded message ---------
+From: Rohit Flyweis Technology <Rohit@flyweis.technology>
+Date: Fri, Dec 17, 2021, 14:26
+Subject: jadibuti admin subadmin and vendors panel
+To: <vinayakflyweis@gmail.com>
+
+
+SuperAdmin Panel
+Login 
+Profile
+Add and Manage Products
+Discount Coupons
+Approve/Reject Products
+Inventory Management
+Customer support
+Add and Manage Admins
+Power assignment
+Live chat
+Add and Manage Blogs
+Dictionary Request Management
+Manage/Update Customer blogs
+Add and Manage Vendors
+History
+Notification
+Dashboard
+
+Vendor Panel
+
+Login
+Profile
+Request to add
+products
+History
+Notification
+Dashboard
+
+
+Admin Panel
+
+ Login
+ Profile
+ Notification
+ Dashboard
+ Additional Powers Given by super admin
+
+User Panel
+
+User Login
+User Register
+User Profile
+Order History
+Post like and comment Blogs
+Customized Formulations
+Order products
+Bulk order request
+Availing Discount Coupons
+Search Products
+Refer Customers
+Dictionary Access (Limited access)
+Search Location by
+Wallet
+Live chat
+Notification
